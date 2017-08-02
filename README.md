@@ -2,7 +2,7 @@
 微博相册图片爬虫
 ### 使用指南 Instructions
 > pip3 install requests   
-> git clone https://github.com/vicsino/WeiboSpider.git   
+> git clone https://github.com/1kchen/WeiboSpider.git   
 > cd WeiboSpider/   
 > python3 ./spider.py   
 
